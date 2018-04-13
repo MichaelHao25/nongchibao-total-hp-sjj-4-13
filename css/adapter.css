@@ -1,0 +1,167 @@
+@media (max-width:1200px){
+	.contact-addr ul li:last-child{
+		position: absolute;
+		right: 0;
+		top: 0;
+		width: auto;
+	}
+
+	
+}
+@media (max-width:1000px){
+	.contact-addr .wt48{
+		width: 100%;
+		margin-right: inherit;
+	}
+
+	
+}
+
+
+@media (max-width: 768px) {
+	.analysis-tit ul {
+		width: 100%;
+		text-align: center;
+	}
+	.analysis-tit ul li{
+		width:90px;
+		float: none;
+		display: inline-block;
+	}
+	.analysis-tit ul li:after{
+		width: 0;
+	}
+	.analysis-list img{
+		display: none;
+	}
+	.pagination > li.lis{
+		display: none;
+	}
+	.pagination{
+		width: 100%;
+		text-align: center;
+		margin-top: 40px;
+	}
+	.pagination > li{
+		display: inline-block;
+	}
+	.analysis-tit{
+		padding-top: 20px;
+	}
+	.custom{
+		display: none;
+	}
+	.options h4{
+		margin-top: 10px;
+	}
+	.options p{
+		height: 46px;
+		overflow: hidden;
+	}
+	.analysis{
+		position: relative;
+	}
+	.analysis-search{
+		padding-top: 30px;
+	}
+	.left{
+		margin-top: 380px;
+	}
+	.right{
+		position: absolute;
+		left: 0;
+		top: 0;
+		border-bottom: 5px solid #f2f2f2;
+		padding-bottom: 20px;
+	}
+	.options ul{
+		width: 100%;
+		text-align: center;
+	}
+	.options ul li{
+		float: none;
+		margin: 0 5px;
+		display: inline-block;
+	}
+	.analysis-tit-fix{
+		position:inherit;
+		overflow: hidden;
+		top: inherit;
+	}
+	.analysis-tit-fix ul{
+		
+		text-align: center;
+	}
+	.analysis-tit-fix ul li{
+		position: inherit;
+		width: 90px;
+		height: 40px;
+		background-color: #f4f4f4;
+		line-height: 40px;
+		border-radius: 0;
+		font-variant: normal;
+		font-size: 14px;
+		margin-top: 105px;
+	}
+	.left2{
+		margin-top: 180px;
+	}
+	.left1{
+		margin-top: 260px;
+	}
+	.data img{
+		width: 80%;
+	}
+	.data h4{
+		text-align: center;
+	}
+	.survey span{
+		width: 70px;
+		height: 24px;
+		font-size: 12px;
+		line-height: 24px;
+		top: -28px;
+	}
+	.survey{
+		padding-top: 80px;
+		padding-bottom: 10px;
+	}
+	.contact-addr .bg{
+		width: 94%;
+		margin-left:3%;
+	}
+	.contact-addr .wt48{
+		width: 94%;
+		margin-left: 3%;
+	}
+	.contact-addr .bg textarea{
+		width: 82%;
+		margin-left: 10px;
+	}
+	.contact-addr .sub-conta{
+		width: 100%;
+		margin-left: 0;
+		
+	}
+	.contact-addr p{
+		line-height: 20px;
+		margin: 0;
+		margin-top: 20px;
+	}
+	.contact-addr ul li h4{
+		margin-left:60px;
+	}
+	.contact-addr-ul-off{
+		display: none;
+	}
+	.contact-addr-ul-on{
+		display: block;
+		margin-top: 20px;
+	}
+	.contact-addr ul li:last-child{
+		position: inherit;
+		right: inherit;
+		top: inherit;
+		width: 100%;
+	}
+}
